@@ -1,0 +1,14 @@
+{
+  "name": "test-practices",
+  "version": "1.0.0",
+  "description": "This is a Javascript test-practices project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Eddy Mouity",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
